@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635776022287",
+    "firebase_url": "https://careerswitch-1f2f0-default-rtdb.firebaseio.com",
+    "project_id": "careerswitch-1f2f0",
+    "storage_bucket": "careerswitch-1f2f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635776022287:android:dfcf6a29646a33f973f07a",
+        "android_client_info": {
+          "package_name": "com.pepsi.careerSwitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635776022287-cijjtijnkj2fvqqgrm8aq3db0ottv3k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATLevXY6FP94uDz4d5k0JUN2gSORbZM3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635776022287-cijjtijnkj2fvqqgrm8aq3db0ottv3k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
